@@ -144,23 +144,3 @@ full %>%
 
 
 
-#Could even set threshold of 70% for example 
-#https://www.r-graph-gallery.com/histogram_several_group.html
-
-
-#Number of cells suitable increases, but not all currently suitable cells are occupied 
-#Current distribution probabbility declines but still remains quite high 
-#https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.00825
-
-#Likely to have less affect/be less accurate on small scale species affected by microclimates 
-
-
-#to github: https://gist.github.com/JoshuaTPierce/b919168421b40e06481080eb53c3fb2f
-#video: https://www.youtube.com/watch?v=83dMS3bcjJM&ab_channel=Biogeoinformatics
-#Ideally should use the name number of pesudoabsences as presence
-#https://besjournals.onlinelibrary.wiley.com/doi/10.1111/j.2041-210X.2011.00172.x
-#https://kevintshoemaker.github.io/NRES-746/SDM_v6.html
-#extent object: https://www.rdocumentation.org/packages/raster/versions/3.4-5/topics/extent
-#Manually defining extent: https://datacarpentry.org/r-raster-vector-geospatial/11-vector-raster-integration/index.html
-#https://www.youtube.com/watch?v=83dMS3bcjJM&ab_channel=Biogeoinformatics
-#https://gis.stackexchange.com/questions/285548/selecting-a-subset-of-a-raster-based-on-aspect-and-slope-as-input-to-calculate
